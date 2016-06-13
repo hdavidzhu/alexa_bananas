@@ -20,7 +20,7 @@ var BANANA_FACTS = [
 /**
 * The AlexaSkill prototype and helper functions
 */
-var AlexaSkill = require('./AlexaSkill');
+var AlexaSkill = require('./libs/alexa_skill');
 
 /**
 * BananaGeek is a child of AlexaSkill.
