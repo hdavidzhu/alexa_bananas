@@ -9,7 +9,7 @@ Bananas are amazing and fun fruits. If you don't know about them, then you shoul
 ### Example Phrases
 
 - Alexa, tell me a fact from BananaGeek.
-- Alexa, let banana facts tell me a BananaGeek.
+- Alexa, let BananaGeek tell me a banana fact.
 - Alexa, tell me something from BananaGeek.
 
 ### Categories
